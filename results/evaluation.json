@@ -1,0 +1,13 @@
+{
+  "lstm": {
+    "test_loss": 3.345389113404404,
+    "perplexity": 28.371613294107195,
+    "checkpoint": "models/lstm_model.pth"
+  },
+  "transformer": {
+    "test_loss": 3.114346141775852,
+    "perplexity": 22.518701500555306,
+    "checkpoint": "models/transformer_model.pth"
+  },
+  "best_model": "transformer"
+}
